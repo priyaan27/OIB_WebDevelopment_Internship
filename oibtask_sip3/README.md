@@ -28,7 +28,7 @@ To use the HTML, CSS, and JavaScript files in this repository, follow these step
 1. Clone the repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/jithendra-varma/OIB_WebDevelopment_Internship.git
+   git clone https://github.com/priyaan27/OIB_WebDevelopment_Internship.git
    ```
 
 2. Open the `index.html` file in a web browser to access the Temperature Converter website.
