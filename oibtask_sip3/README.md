@@ -19,7 +19,7 @@ This repository contains the following files:
 
 ## Preview
 
-To preview the Temperature Converter website, you can visit the following link: [Temperature Converter Website Preview](https://github.com/jithendra-varma/OIB_WebDevelopment_Internship/tree/main/oibsip_task3)
+To preview the Temperature Converter website, you can visit the following link: [Temperature Converter Website Preview](https://github.com/priyaan27/OIB_WebDevelopment_Internship/tree/main/oibsip_task3)
 
 ## Usage
 
@@ -55,7 +55,7 @@ I would like to express my sincere gratitude to Oasis Infobyte for providing me 
 
 I am open to connect and discuss more about this project or any other web development-related topics. You can reach out to me through the following channels:
 
-- LinkedIn: [Jithendra Varma](https://www.linkedin.com/in/jithendravarma/)
-- Email: jithendra9367@gmail.com
+
+- Email: krishnaapriya27@gmail.com
 
 Feel free to customize this README file based on your specific project requirements.
