@@ -15,7 +15,7 @@ This repository contains the following files:
 
 - `index.html`: The main HTML file that represents the structure of the portfolio website.
 - `styles.css`: The CSS file that applies styling to the HTML elements.
-- `script.js`: The JavaScript file that adds interactivity and functionality to the portfolio.
+- `script.js`: The JavaScript file that adds interactivity and functionality to the portfolio
 
 ## Preview
 
