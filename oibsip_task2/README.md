@@ -19,7 +19,7 @@ This repository contains the following files:
 
 ## Preview
 
-To preview the portfolio website, you can visit the following link: [Portfolio Website Preview](https://github.com/jithendra-varma/OIB_WebDevelopment_Internship/tree/main/oibsip_task2)
+To preview the portfolio website, you can visit the following link: [Portfolio Website Preview](https://github.com/priyaan27/OIB_WebDevelopment_Internship/tree/main/oibsip_task2)
 
 ## Usage
 
