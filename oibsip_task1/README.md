@@ -18,7 +18,7 @@ This repository contains the following files:
 
 ## Preview
 
-To preview the landing page, you can visit the following link: [Landing Page Preview](https://github.com/jithendra-varma/OIB_WebDevelopment_Internship/tree/main/oibsip_task1)
+To preview the landing page, you can visit the following link: [Landing Page Preview](https://github.com/priyaan27/OIB_WebDevelopment_Internship/tree/main/oibsip_task1)
 
 ## Usage
 
@@ -48,7 +48,7 @@ I would like to express my gratitude to Oasis Infobyte for providing me with thi
 
 I am open to connect and discuss more about this project or any other web development-related topics. You can reach out to me through the following channels:
 
-- LinkedIn:https://leetcode.com/priyaa_n27/
+
 - Email: krishnaapriya27@gmail.com
 
 Feel free to customize this README file based on your specific project requirements.
