@@ -13,7 +13,7 @@ I am excited to share that I have successfully completed Task 1 as a Web Develop
 
 This repository contains the following files:
 
-- `index.html`: The main HTML file that represents the structure of the landing page.
+- `index.html`: The main HTML file that represents the structure of the landing page..
 - `styles.css`: The CSS file that applies styling to the HTML elements.
 
 ## Preview
